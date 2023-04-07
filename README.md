@@ -1,4 +1,5 @@
 # Snack App
 
-Flutter project contain apk file ready to install on Android Phone
-Video Demo for this App : https://drive.google.com/file/d/1bpTktY96LSow44caKiT75dX-v-TsGzFt/view?usp=sharing
+A Flutter Project by Darmawan Saputra
+
+API : https://apigenerator.dronahq.com/api/g7s7P925/TestAlan/
