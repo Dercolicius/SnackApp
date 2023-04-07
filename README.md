@@ -1,3 +1,3 @@
 # Snack App
 
-A Flutter Project by Darmawan Saputra for Android Mobile
+A Flutter Project (POS App) for Android Mobile by Darmawan Saputra
